@@ -4,4 +4,5 @@ payload:
 - DOMAIN-SUFFIX,dns.msftncsi.com
 - DOMAIN-SUFFIX,www.msftncsi.com
 - DOMAIN-SUFFIX,www.msftconnecttest.com
+- DOMAIN-SUFFIX,meizubl.com
 - IP-CIDR,152.69.184.104/32,no-resolve
