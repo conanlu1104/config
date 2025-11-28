@@ -7,3 +7,4 @@ payload:
 - DOMAIN-SUFFIX,meizubl.com
 - DOMAIN-SUFFIX,staticfile.loseu.cc
 - IP-CIDR,152.69.184.104/32,no-resolve
+- DOMAIN-SUFFIX,apphot.cc
