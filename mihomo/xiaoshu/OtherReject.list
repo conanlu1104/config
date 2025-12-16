@@ -14,3 +14,12 @@ DOMAIN-SUFFIX,a0.app.xiaomi.com
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
 IP-CIDR,157.148.47.204/32,no-resolve
+DOMAIN-SUFFIX,t1.daumcdn.net
+DOMAIN-SUFFIX,stat.tiara.kakao.com
+DOMAIN-SUFFIX,potplayertv.daum.net
+DOMAIN-SUFFIX,play.kakao.com
+DOMAIN-SUFFIX,p2-play.edge4k.com
+DOMAIN-SUFFIX,p1-play.edge4k.com
+DOMAIN-SUFFIX,p1-play.edge4k.com
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,daum.net
